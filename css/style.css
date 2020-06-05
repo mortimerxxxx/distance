@@ -495,7 +495,7 @@ body {
     word-wrap: break-word;
 }
 .figma {
-    background-image: url(/img/figma.png);
+    background-image: url(img/figma.png);
     background-repeat: no-repeat;
     background-position:  center;
     background-size: contain;
@@ -504,7 +504,7 @@ body {
 
 }
 .concuria {
-    background-image: url(/img/c.png);
+    background-image: url(img/c.png);
     background-repeat: no-repeat;
     background-position:  center;
     background-size: contain;
